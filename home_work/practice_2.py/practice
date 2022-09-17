@@ -1,0 +1,26 @@
+# //integer division
+#calculate the integer part of division of 234 by 32
+
+x=y=z="orange"
+print
+int(234/32)
+print('234',/32)
+
+x=(('True or True') and False) or True
+print('x')and False or True
+
+
+
+#string
+str='techtorial'
+print(len('str'))
+# addition
+6 addition 
+print(67+4)
+
+
+
+
+
+
+
